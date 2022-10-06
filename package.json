@@ -1,0 +1,18 @@
+{
+  "name": "ss81-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวยจับยี่กีออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยจับยี่กีออนไลน์",
+"วิธีเล่นเว็บหวย",
+"lottovip เครดิตฟรี",
+"วิธีเล่นเว็บหวย",
+"lottovip349"
+],
+  "repository": "https://github.com/setteebet/ss81-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
